@@ -113,7 +113,6 @@ public class Complex2
                 }
             }
             System.out.println();
-kl
         }    
         
     }    
